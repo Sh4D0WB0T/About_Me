@@ -44,7 +44,7 @@ HTML | CSS | JavaScript | React
 
 ---
 ## 🎥 Content Creation
-▶️ YouTube Channel: @Chaotic_Coder00
+▶️ YouTube Channel: https://www.youtube.com/@Chaotic_Coder00
 (Sharing tech learning, projects, and experiments)
 
 ## 📫 Connect With Me
